@@ -1,0 +1,108 @@
+.header{
+	background-color: #A5413F;
+	overflow: hidden;
+}
+.logo{
+	border: 5px solid green;
+	width: 80px;
+	min-height: 88px;
+	float: left;
+}
+.menu{
+	border: 5px solid green;
+	width: 65%;
+	min-height: 88px;
+	float: right;
+}
+.sec1{
+	border: 1px solid red;
+	width: 20%;
+	min-height: 88px;
+	float: right;
+}
+.banner{
+	background-color: #A3B7B5;
+	overflow: hidden;
+}
+.banner_content{
+	width: 40%;
+	min-height: 200px;
+	border: 2px solid red;
+	margin: 50px auto;
+}
+.services{
+	min-height: 300px;
+	background-color: #594F4E;
+	padding: 20px 5px;
+
+
+}
+.service{
+	border: 1px solid red;
+	/*min-height: 180px;*/
+    margin-bottom:10px;
+    overflow: hidden;
+
+}
+.service1{
+	width: 20%;
+	float: left;
+	min-height: 180px; 
+	border: 1px solid white;
+	padding: 10px;
+	margin-left: 2%;
+
+}
+.icon{
+	border: 1px solid white;
+	overflow: hidden;
+}
+.part1{
+	float: left;
+	width: 25%;
+	background-color: #CF8A3F;
+	border: 1px solid red;
+    min-height: 50px; 
+
+
+}
+.part2{
+	float: left;
+	width: 60%;
+	border: 1px solid red;
+	background-color: #cc2413;
+	min-height: 50px;
+
+}
+.content{
+	border: 1px solid white;
+	
+	
+}
+.div1{
+	background-color: red;
+	min-height: 50px;
+}
+.div2{
+	background-color: white;
+	min-height: 50px;
+}
+
+.contact{
+	border: 1px solid red;
+	min-height: 100px;
+	background-color: red;
+	overflow: hidden;
+
+}
+.cont{
+	float: left;
+	width: 10%;
+	border: 1px solid white;
+	min-height: 50px;
+	margin-left: 10%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+
